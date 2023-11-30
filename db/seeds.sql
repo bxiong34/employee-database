@@ -14,7 +14,7 @@ INSERT INTO role (id, title, salary, department_id)
 VALUES
     (1, 'manager', 200000, 1),
     (2, 'cashier', 70000, 2),
-    (3, 'groomer', 100000, 2),
+    (3, 'stylist', 100000, 2),
     (4, 'trainer', 160000, 3);
 
 -- select rows in employees table
