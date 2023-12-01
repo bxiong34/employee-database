@@ -1,3 +1,6 @@
+-- create employeelist_db
+CREATE DATABASE employeelist_db;
+
 USE employeelist_db;
 
 -- inserts id and name into department table
