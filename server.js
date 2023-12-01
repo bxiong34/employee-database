@@ -22,7 +22,6 @@ db.connect(function (err) {
 app.use(express.urlencoded({ extended: false }));
 app.use(express.json());
 
-
 app.listen(PORT, () => {
   console.log('Now Listening.');
 });
